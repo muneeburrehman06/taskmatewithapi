@@ -19,6 +19,8 @@ Users can update:
 - Email
 
 ### Task Management
+- Login with Gmail
+- Gogin with Facebook
 - Add Task
 - View Tasks
 - Update Task
